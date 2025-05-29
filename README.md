@@ -13,4 +13,4 @@ smoothly transitioning colors through red → orange → yellow → green → cy
 - Breadboard + jumper wires
 
 ## Code
-See `RGB_Potentiometer.ino` for details.
+See `Assignment_1_MoodPin.ino` for details.
